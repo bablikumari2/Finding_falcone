@@ -1,0 +1,40 @@
+
+.center-body{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.MuiPaper-root{
+    width: 16rem;
+    text-align: center;
+    margin-right: 1rem;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+}
+
+.Destination-select{
+    width: 100%;
+}
+
+.Parent_Card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 5px solid violet;
+    height: 400px;
+
+}
+
+.Distance_measure{
+    text-align: left;
+    margin-left: 1rem;
+    font-family: cursive;
+    margin-bottom: 0.8rem;
+    margin-top: 0.8rem;
+    border-bottom: 3px solid cadetblue;
+    margin-right: 0.8rem;
+}
+
+

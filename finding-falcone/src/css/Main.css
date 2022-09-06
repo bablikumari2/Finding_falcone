@@ -1,0 +1,24 @@
+
+
+.head{
+ text-align: center;
+ display: flex;
+ align-items: center;
+
+ justify-content: space-around;
+}
+.submit-button{
+  width: 100%;
+  text-align: -webkit-center;
+  margin-top: 25px;
+}
+
+
+.total{
+  padding: 15px;
+  background-color: blueviolet;
+  color: beige;
+  font-size: medium;
+  font-weight: bold;
+  border: 0px;
+}

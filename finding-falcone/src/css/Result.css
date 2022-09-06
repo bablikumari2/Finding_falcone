@@ -1,0 +1,20 @@
+.Result-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5rem;
+    padding: 4rem;
+}
+.result-partone{
+    font-size: 2.7vw;
+    font-family: cursive;
+}
+
+.result-parttwo{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    font-size: 2vw;
+    font-family: cursive;
+    margin-bottom : 3rem;
+}
