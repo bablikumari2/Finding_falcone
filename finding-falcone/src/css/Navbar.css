@@ -1,10 +1,10 @@
 .nav{
    
-    height: 70px;
+    height: 4rem;
     display: flex;
    justify-content: space-around;
    align-items: center;
-   background-color: blueviolet;
+   background-color: rgb(75, 101, 231);
    color: azure;
 }
 .reset{
